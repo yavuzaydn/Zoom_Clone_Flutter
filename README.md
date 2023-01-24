@@ -1,6 +1,6 @@
 # zoom_clone
 
-This is a zoom clone application using flutter and firebase.
+This is a zoom clone application using flutter, dart and firebase.
 
 ## Getting Started
 
