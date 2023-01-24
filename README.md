@@ -1,6 +1,6 @@
 # zoom_clone
 
-A new Flutter project.
+This is a zoom clone application using flutter and firebase.
 
 ## Getting Started
 
